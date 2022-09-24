@@ -1,7 +1,7 @@
 Olá! Me chamo Vinicius Dantas!
 
 - 👀 I’m interested in learning more about Game Development
-- 🌱 I’m currently learning C++, Python, JavaScript, HTML and CSS
+- 🌱 I’m currently learning Java, C++, Python, JavaScript, HTML and CSS
 
 <div align="center">
   <a href="https://github.com/vinicius-dantasso">
