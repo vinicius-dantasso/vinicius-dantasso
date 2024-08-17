@@ -1,7 +1,10 @@
-Olá! Me chamo Vinicius Dantas!
+Hello! I'm Vinicius Dantas!
 
-- 👀 I’m interested in learning more about Game Development
-- 🌱 I’m currently learning Java, C++, Python, JavaScript, HTML and CSS
+I’m a Computer Science student with a strong passion for software and game development. I have experience building RESTful applications using Spring Boot and Node.js, and I work with a variety of programming languages, including Java, C/C++, C#, and Python.
+
+In the gaming world, I have developed projects using Game Maker Studio 2 and Godot, always striving to create immersive and enjoyable experiences. I’m constantly learning and exploring new technologies to expand my skills and contribute to innovative projects.
+
+Feel free to explore my repositories and projects, and don’t hesitate to reach out if you have any questions or collaboration opportunities!
 
 <div align="center">
   <a href="https://github.com/vinicius-dantasso">
@@ -10,12 +13,11 @@ Olá! Me chamo Vinicius Dantas!
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Vini-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/431620926585700352/1015983217641275402/Normal.png">
 </div>
   
